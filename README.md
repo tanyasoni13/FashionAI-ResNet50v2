@@ -20,5 +20,5 @@ The dataset is taken from **[Kaggle (Fashion Dataset)](https://www.kaggle.com)**
 - screenshots, I've added manually to test.
 
 Pre-trained Model Weights  
-The model weights were manually downloaded and added because they were not directly available from ImageNet. Ensure that you have correctly downloaded and placed the weights in the appropriate directory before running the code.
+The model weights were manually downloaded and added because they were not directly available from ImageNet. Ensure that you have correctly downloaded and added path in the "weights" in the code.
 link: https://drive.google.com/file/d/1a9TTa6IESM2lUylSd6xOgewqvt2mRFum/view?usp=sharing
